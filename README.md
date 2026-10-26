@@ -1,7 +1,5 @@
 # Delivery-Last-Mile-Execution-Analysis
 
-Project Overview
-
 This project analyzes last-mile logistics route data to evaluate how actual route execution compares with planned routes. The analysis focuses on stop-sequence adherence, distance deviation, time-window performance, driver variation, and route complexity.
 
 The objective is to identify patterns in route execution and examine whether deviations from planned stop sequences are associated with excess distance and lower time-window adherence.
