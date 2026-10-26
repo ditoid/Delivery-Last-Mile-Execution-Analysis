@@ -8,7 +8,7 @@ Tools and Workflow
 
 Python (pandas, NumPy, SciPy, Matplotlib): Data validation, transformation, exploratory analysis, metric calculation, statistical testing, and visualization.
 
-MySQL: Data verification and cleaning.
+Power Query: Data verification and normalization.
 
 Footnotes
 
