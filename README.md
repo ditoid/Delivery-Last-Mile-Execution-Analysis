@@ -21,3 +21,5 @@ Footnotes
 4. distance_deviation is actual distance minus planned distance. Positive values indicate excess distance and potential inefficiency, but may also reflect detours, road conditions, or other operational factors.
 
 5. Spearman correlation tests associations between position_deviation_rate and both distance_deviation and time_adherence_rate. Holm correction adjusts for the two tests. Statistical significance does not imply causation or practical importance.
+
+Dataset are collected from [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340926002970)
