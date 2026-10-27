@@ -22,4 +22,4 @@ Footnotes
 
 5. Spearman correlation tests associations between position_deviation_rate and both distance_deviation and time_adherence_rate. Holm correction adjusts for the two tests. Statistical significance does not imply causation or practical importance.
 
-Dataset are collected from [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340926002970)
+Dataset are sourced from [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352340926002970)
